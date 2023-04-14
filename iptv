@@ -1,4 +1,57 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] LEO TV
-http://192.168.1.102:8080
+#EXTINF: -1  tvg-id="sportv.br" tvg-logo="http://origemdasfontes.ga:80/images/04c9c15a1360adf030b0d5d9da757622.png" tvg-name="SPORTV 1 HD¹" group-title="SPORTV 1 HD¹",SPORTV 1 HD¹  
+http://lista.iptvagora.com:25461/7451659841/659841/1058
+#EXTINF: -1  tvg-id="sportv.br" tvg-logo="http://origemdasfontes.ga:80/images/04c9c15a1360adf030b0d5d9da757622.png" tvg-name="SPORTV 1 SD¹" group-title="SPORTV 1 SD¹",SPORTV 1 SD¹  
+http://lista.iptvagora.com:25461/7451659841/659841/1059
+#EXTINF: -1  tvg-id="sportv.br" tvg-logo="http://origemdasfontes.ga:80/images/c16917f112562bfdcf91039476a2cbc9.png" tvg-name="SporTV (H265)¹" group-title="SporTV (H265)¹",SporTV (H265)¹  
+http://lista.iptvagora.com:25461/7451659841/659841/1060
+#EXTINF: -1  tvg-id="sportv.br" tvg-logo="https://i.imgur.com/gULDKB3.png" tvg-name="SPORTV FHD²" group-title="SPORTV FHD²",SPORTV FHD²  
+http://lista.iptvagora.com:25461/7451659841/659841/1061
+#EXTINF: -1  tvg-id="sportv.br" tvg-logo="https://i.imgur.com/gULDKB3.png" tvg-name="SPORTV HD²" group-title="SPORTV HD²",SPORTV HD²  
+http://lista.iptvagora.com:25461/7451659841/659841/1062
+#EXTINF: -1  tvg-id="sportv.br" tvg-logo="https://i.imgur.com/gULDKB3.png" tvg-name="SPORTV SD²" group-title="SPORTV SD²",SPORTV SD²  
+http://lista.iptvagora.com:25461/7451659841/659841/1063
+#EXTINF: -1  tvg-id="sportv2.br" tvg-logo="http://origemdasfontes.ga:80/images/3975a3d806400c5d9cc06799dadd315a.png" tvg-name="SPORTV 2 FHD¹" group-title="SPORTV 2 FHD¹",SPORTV 2 FHD¹  
+http://lista.iptvagora.com:25461/7451659841/659841/1064
+#EXTINF: -1  tvg-id="sportv2.br" tvg-logo="http://origemdasfontes.ga:80/images/3975a3d806400c5d9cc06799dadd315a.png" tvg-name="SPORTV 2 HD¹" group-title="SPORTV 2 HD¹",SPORTV 2 HD¹  
+http://lista.iptvagora.com:25461/7451659841/659841/1065
+#EXTINF: -1  tvg-id="sportv2.br" tvg-logo="http://origemdasfontes.ga:80/images/3975a3d806400c5d9cc06799dadd315a.png" tvg-name="SPORTV 2 SD¹" group-title="SPORTV 2 SD¹",SPORTV 2 SD¹  
+http://lista.iptvagora.com:25461/7451659841/659841/1066
+#EXTINF: -1  tvg-id="sportv2.br" tvg-logo="http://origemdasfontes.ga:80/images/a6e24fd695f38de85c201457b300e552.png" tvg-name="SporTV 2 (H265)¹" group-title="SporTV 2 (H265)¹",SporTV 2 (H265)¹  
+http://lista.iptvagora.com:25461/7451659841/659841/1067
+#EXTINF: -1  tvg-id="sportv.br" tvg-logo="https://i.imgur.com/a1cWlz2.png" tvg-name="SPORTV (H265)²" group-title="SPORTV (H265)²",SPORTV (H265)²  
+http://lista.iptvagora.com:25461/7451659841/659841/1068
+#EXTINF: -1  tvg-id="sportv2.br" tvg-logo="https://i.imgur.com/uQnMRtt.png" tvg-name="SPORTV 2 FHD²" group-title="SPORTV 2 FHD²",SPORTV 2 FHD²  
+http://lista.iptvagora.com:25461/7451659841/659841/1069
+#EXTINF: -1  tvg-id="sportv2.br" tvg-logo="https://i.imgur.com/uQnMRtt.png" tvg-name="SPORTV 2 HD²" group-title="SPORTV 2 HD²",SPORTV 2 HD²  
+http://lista.iptvagora.com:25461/7451659841/659841/1070
+#EXTINF: -1  tvg-id="sportv2.br" tvg-logo="https://i.imgur.com/uQnMRtt.png" tvg-name="SPORTV 2 SD²" group-title="SPORTV 2 SD²",SPORTV 2 SD²  
+http://lista.iptvagora.com:25461/7451659841/659841/1071
+#EXTINF: -1  tvg-id="sportv2.br" tvg-logo="https://i.imgur.com/jFFsxXu.png" tvg-name="SPORTV 2 (H265)²" group-title="SPORTV 2 (H265)²",SPORTV 2 (H265)²  
+http://lista.iptvagora.com:25461/7451659841/659841/1072
+#EXTINF: -1  tvg-id="sportv3.br" tvg-logo="http://origemdasfontes.ga:80/images/e4349d680dfc24ac62653aafcfc16214.png" tvg-name="SPORTV 3 HD¹" group-title="SPORTV 3 HD¹",SPORTV 3 HD¹  
+http://lista.iptvagora.com:25461/7451659841/659841/1073
+#EXTINF: -1  tvg-id="sportv3.br" tvg-logo="http://origemdasfontes.ga:80/images/e4349d680dfc24ac62653aafcfc16214.png" tvg-name="SPORTV 3 FHD¹" group-title="SPORTV 3 FHD¹",SPORTV 3 FHD¹  
+http://lista.iptvagora.com:25461/7451659841/659841/1074
+#EXTINF: -1  tvg-id="sportv3.br" tvg-logo="http://origemdasfontes.ga:80/images/e4349d680dfc24ac62653aafcfc16214.png" tvg-name="SPORTV 3 SD¹" group-title="SPORTV 3 SD¹",SPORTV 3 SD¹  
+http://lista.iptvagora.com:25461/7451659841/659841/1075
+#EXTINF: -1  tvg-id="sportv3.br" tvg-logo="http://origemdasfontes.ga:80/images/e74bdb32f9bf1fa8e58385dc3b1ce015.png" tvg-name="SporTV 3 (H265)¹" group-title="SporTV 3 (H265)¹",SporTV 3 (H265)¹  
+http://lista.iptvagora.com:25461/7451659841/659841/1076
+#EXTINF: -1  tvg-id="sportv3.br" tvg-logo="https://i.imgur.com/0sTcFeE.png" tvg-name="SPORTV 3 FHD²" group-title="SPORTV 3 FHD²",SPORTV 3 FHD²  
+http://lista.iptvagora.com:25461/7451659841/659841/1077
+#EXTINF: -1  tvg-id="sportv3.br" tvg-logo="https://i.imgur.com/0sTcFeE.png" tvg-name="SPORTV 3 HD²" group-title="SPORTV 3 HD²",SPORTV 3 HD²  
+http://lista.iptvagora.com:25461/7451659841/659841/1078
+#EXTINF: -1  tvg-id="sportv3.br" tvg-logo="https://i.imgur.com/0sTcFeE.png" tvg-name="SPORTV 3 SD²" group-title="SPORTV 3 SD²",SPORTV 3 SD²  
+http://lista.iptvagora.com:25461/7451659841/659841/1079
+#EXTINF: -1  tvg-id="sportv3.br" tvg-logo="https://i.imgur.com/1NXqwY2.png" tvg-name="SPORTV 3 (H265)²" group-title="SPORTV 3 (H265)²",SPORTV 3 (H265)²  
+http://lista.iptvagora.com:25461/7451659841/659841/1080
+#EXTINF: -1  tvg-id="" tvg-logo="https://i.imgur.com/iajVgtM.png" tvg-name="SPORTV 4 FHD²" group-title="SPORTV 4 FHD²",SPORTV 4 FHD²  
+http://lista.iptvagora.com:25461/7451659841/659841/1081
+#EXTINF: -1  tvg-id="" tvg-logo="https://i.imgur.com/iajVgtM.png" tvg-name="SPORTV 4 HD²" group-title="SPORTV 4 HD²",SPORTV 4 HD²  
+http://lista.iptvagora.com:25461/7451659841/659841/1082
+#EXTINF: -1  tvg-id="" tvg-logo="https://i.imgur.com/iajVgtM.png" tvg-name="SPORTV 4 SD²" group-title="SPORTV 4 SD²",SPORTV 4 SD²  
+http://lista.iptvagora.com:25461/7451659841/659841/1083
+#EXTINF: -1  tvg-id="" tvg-logo="https://i.imgur.com/56Rc96W.png" tvg-name="SPORTV 4 (H265)²" group-title="SPORTV 4 (H265)²",SPORTV 4 (H265)²  
+http://lista.iptvagora.com:25461/7451659841/659841/1084
+#EXTINF: -1  tvg-id="" tvg-logo="https://i.imgur.com/Mem1lqw.png" tvg-name="SPORTV PLUS HD²" group-title="SPORTV PLUS HD²",SPORTV PLUS HD²  
+http://lista.iptvagora.com:25461/7451659841/659841/1085
